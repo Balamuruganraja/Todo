@@ -40,7 +40,7 @@ const TableData = (props) => {
   </tr>)
   })) 
     :
-    (<h3 style={{paddingLeft:"50%",paddingTop:"30px"}}>No data</h3>)
+    (<h3 style={{paddingTop:"30px"}}>No data</h3>)
 }
  
    
